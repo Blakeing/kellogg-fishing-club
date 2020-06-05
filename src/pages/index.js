@@ -18,7 +18,7 @@ function IndexPage() {
             className="font-bold text-gray-900 no-underline"
             href="mailto:kelloggfcinfo@gmail.com"
           >
-            kellogginfo@gmail.com
+            kelloggfcinfo@gmail.com
           </a>
         </p>
         <img
